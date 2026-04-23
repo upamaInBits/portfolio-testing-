@@ -18,6 +18,9 @@ During Network and Console inspection, the browser automatically attempted to lo
 
 This behavior is expected for sites without a defined favicon and does not impact functionality.
 
+<img width="1728" height="950" alt="image" src="https://github.com/user-attachments/assets/f53178f2-ac0a-474a-8989-60cac6bd5292" />
+
+---
 
 <img width="1728" height="950" alt="image" src="https://github.com/user-attachments/assets/ed4f3911-3558-4a36-9e36-d4e115b07c0d" />
 
